@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Slawo"
+theme = "hugo"
+
+[params]
+	homeSubtitle = "Aviator \u25cf Coder \u25cf Fashia"
+
+[[menu.main]]
+		identifier = "rv10"
+		name       = "RV-10"
+		url        = "/blog/rv10"
