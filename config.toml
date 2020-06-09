@@ -4,7 +4,7 @@ title = "Slawo"
 theme = "hugo"
 
 [params]
-	homeSubtitle = "Aviator \u25cf Coder \u25cf Fashia"
+	homeSubtitle = "Aviator \u25cf Coder \u25cf Fashia \u25cf Pizzaiolo"
 
 [[menu.main]]
 		identifier = "rv10"
