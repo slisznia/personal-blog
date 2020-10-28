@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Sławomir"
 theme = "hugo"
+path = "/img/me.jpg"
 
 [params]
 	homeSubtitle = "Aviator \u25cf Coder \u25cf Fashia \u25cf Pizzaiolo"
