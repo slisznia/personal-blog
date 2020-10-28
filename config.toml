@@ -1,11 +1,15 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Sławomir"
+title = "Sławomir Liszniański"
 theme = "hugo"
-path = "/img/me.jpg"
 
 [params]
 	homeSubtitle = "Aviator \u25cf Coder \u25cf Fashia \u25cf Pizzaiolo"
+	portraitpath = "/img/me.jpg"
+
+[params.portrait]
+	path = "/static/img/me.jpg"
+	alt = "Slawomir"
 
 [[menu.main]]
 		identifier = "rv10"
