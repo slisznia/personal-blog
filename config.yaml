@@ -11,17 +11,17 @@ params:
 menu:
   main:
     - identifier: aviator
-      name: aviator
+      name: Aviator
       url: /blog/aviator
 
-    - identifier: hacking
-      name: hacking
-      url: /blog/hacking
-
-    - identifier: fashia
-      name: fashia
-      url: /blog/fashia
-
-    - identifier: pizzaiolo
-      name: pizzaiolo
-      url: /blog/pizzaiolo
+#   - identifier: ea-build
+#     name: EA build
+#     url: /blog/ea-build
+#
+#   - identifier: hacking
+#     name: Hacking
+#     url: /blog/hacking
+#
+#   - identifier: fashia
+#     name: Fashia
+#     url: /blog/fashia
