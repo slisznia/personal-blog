@@ -5,6 +5,7 @@ serve:
   hugo server --buildDrafts --verbose
 
 deploy:
+  #!/usr/bin/env bash
   TAG="`git log -1 --pretty=%B`"
   echo "Deploying with tag... $TAG"
   sleep 5
