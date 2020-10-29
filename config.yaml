@@ -1,0 +1,27 @@
+baseURL: /
+languageCode: en-us
+title: Sławomir Liszniański
+theme: hello-ng
+params:
+  homeSubtitle: personal journal
+  portraitpath: /img/me.jpg
+  portrait:
+    path: /static/img/me.jpg
+    alt: Sławomir Liszniański
+menu:
+  main:
+    - identifier: aviator
+      name: aviator
+      url: /blog/aviator
+
+    - identifier: hacking
+      name: hacking
+      url: /blog/hacking
+
+    - identifier: fashia
+      name: fashia
+      url: /blog/fashia
+
+    - identifier: pizzaiolo
+      name: pizzaiolo
+      url: /blog/pizzaiolo
