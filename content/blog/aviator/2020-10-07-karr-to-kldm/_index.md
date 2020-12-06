@@ -1,5 +1,5 @@
 ---
-title: "Ludington, MI fishing trip"
+title: "Ludington fishing trip"
 date: 2020-10-07T13:38:42-05:00
 ---
 ![Milosh at KARR️](IMG_1602.jpg)
