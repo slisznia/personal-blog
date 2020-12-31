@@ -3,7 +3,7 @@ languageCode: en-us
 title: Sławomir Liszniański
 theme: hello-ng
 params:
-  homeSubtitle: personal journal
+  homeSubtitle: Irregular chronicles of a curious person.
   portraitpath: /img/me.jpg
   portrait:
     path: /static/img/me.jpg
