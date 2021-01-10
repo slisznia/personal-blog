@@ -1,6 +1,8 @@
 baseURL: /
 languageCode: en-us
 title: Sławomir Liszniański
+keywords: Vans RV-10 aviation build
+copyright: 'Slawomir Lisznianski &#60;sl@aggati.com&#62;'
 theme: hello-ng
 params:
   homeSubtitle: Irregular chronicles of a curious person.
@@ -17,15 +19,3 @@ menu:
     - identifier: cook
       name: Cook
       url: /blog/cook
-
-#   - identifier: ea-build
-#     name: EA build
-#     url: /blog/ea-build
-#
-#   - identifier: hacking
-#     name: Hacking
-#     url: /blog/hacking
-#
-#   - identifier: fashia
-#     name: Fashia
-#     url: /blog/fashia
